@@ -1,0 +1,23 @@
+{
+  "name": "scvdp",
+  "description": "",
+  "main": "truffle-config.js",
+  "authors": [
+  
+  ],
+  "license": "ISC",
+ 
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "web3": "^3.0.0",
+    "bootstrap": "4"
+  }
+}
